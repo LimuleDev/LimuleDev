@@ -1,6 +1,6 @@
 # Limule Developement:
 # - ✨ Developer of Joker, a french minecraft raid tool.
-# - 🙄 Minecraft Hacked Clients Developper
+# - 🙄 Minecraft Hacked Clients Developer
 # - 🗿  Also a discord exploiter (their API is shit lmao). 
 # - 😄 Java developper.
 
